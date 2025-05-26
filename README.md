@@ -8,6 +8,9 @@
 ## Code selection 
 
 1 - `code`
-2 - ```my first project
-	java	
+2 - ```
+my
+first 
+project
+java	
 ```
