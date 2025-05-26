@@ -14,13 +14,13 @@
 1 - `code`
 
 ---------------
-2 - ```java
+2 - ```
+java
 
 {
 my
 first 
 project
 java
-}
-	
+}	
 ```
