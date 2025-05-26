@@ -8,9 +8,13 @@
 ## Code selection 
 
 1 - `code`
-2 - ```
+2 - ```java
+
+{
 my
 first 
 project
-java	
+java
+}
+	
 ```
